@@ -9,11 +9,11 @@ public class DeleteOrganization {
 
 		System.out.println("Modifications by TE1");
 		System.out.println("Modifications by TE1");
-<<<<<<< HEAD
-		System.out.println("Modifications by TE1");
-=======
 
->>>>>>> branch 'master' of https://github.com/rashmitk/repositorysdet5.git
+		System.out.println("Modifications by TE1");
+
+
+
 		
 	}
 	
